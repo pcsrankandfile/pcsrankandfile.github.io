@@ -90,4 +90,4 @@ collections:
 url: "http://pcsrankandfile.com"
 baseurl: ""
 markdown: kramdown
-public: false
+public: true
