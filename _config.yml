@@ -42,7 +42,7 @@ logo-favicon-large: "/assets/site/images/favicon-96x96.png"
 # Website Design:
 #  - Pinned Colour is used by android(ect)
 ####
-pinned-colour: "blue"
+pinned-colour: "#EE4035"
 
 ####
 # Social Media
