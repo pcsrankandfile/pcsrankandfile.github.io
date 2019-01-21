@@ -32,9 +32,8 @@ home-publications: true
 # Website Design:
 #  - Defult Images (These are shared on social media & in browser menus)
 ####
-social-media-image: "/assets/site/images/social-media.png"
+social-media-image: "/assets/site/images/social-media.jpg"
 touch: "/assets/site/images/touch.png"
-pinned: "/assets/site/images/pinned.svg"
 logo-favicon-small: "/assets/site/images/favicon-16x16.png"
 logo-favicon-medium: "/assets/site/images/favicon-32x32.png"
 logo-favicon-large: "/assets/site/images/favicon-96x96.png"
