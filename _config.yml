@@ -1,0 +1,22 @@
+permalink: /news/:year/:month/:day/:title:output_ext #This is the default permalink for the "_posts" folder.
+
+collections:
+  archives:
+    output: true
+    permalink: /archive/:title/
+    defaults:
+      values:
+        layout: news
+  publications:
+    output: true
+    permalink: /publication/:title/
+    defaults:
+      values:
+        layout: publication
+
+url: "http://www.pcsrankandfile.com" # e.g. http://example.com
+
+baseurl: "" # e.g. /blog
+
+markdown: kramdown
+
