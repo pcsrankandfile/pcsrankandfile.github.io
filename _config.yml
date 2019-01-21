@@ -1,12 +1,81 @@
-permalink: /news/:year/:month/:day/:title:output_ext #This is the default permalink for the "_posts" folder.
+####
+# Basic Website Details
+####
+title: "PCS HMRC Rank & File Network"
+author: "PCS HMRC Rank & File Network"
+description: "Here.."
+
+email: hello@pcsrankandfile.com
+
+####
+# Navigation Menu:
+#  - To customise the navigation menu, edit the "menu.csv" in the "_data" folder. 
+####
+
+####
+# Homepage Settings:
+#  - Homepage 'About' splash secion
+####
+home-splash: true #Change to 'false' to disable. 
+home-splash-1: "Content..."
+home-splash-2: "content..."
+home-splash-3: "content..."
+
+####
+# Homepage Settings:
+#  - Homepage Sections (Change values to false to disable)
+####
+home-news: true
+home-publications: true
+
+####
+# Website Design:
+#  - Defult Images (These are shared on social media & in browser menus)
+####
+social-media-image: "/assets/site/images/social-media.png"
+touch: "/assets/site/images/touch.png"
+pinned: "/assets/site/images/pinned.svg"
+logo-favicon-small: "/assets/site/images/favicon-16x16.png"
+logo-favicon-medium: "/assets/site/images/favicon-32x32.png"
+logo-favicon-large: "/assets/site/images/favicon-96x96.png"
+
+####
+# Website Design:
+#  - Pinned Colour is used by android(ect)
+####
+pinned-colour: "blue"
+
+####
+# Social Media
+#  - Settings for social media (remove # to use)
+####
+#facebook-app-id: "..." # For Facebook OpenGraph integration
+#facebook-profile-id: "..." # For Facebook OpenGraph integration
+#facebook-admin-id: "..." # For Facebook OpenGraph integration
+#facebook-url:	"https://facebook.com/pcsrankandfile"
+#facebook-handle: "pcsrankandfile"
+
+#twitter-url: "https://twitter.com/pcsrankandfile"
+#twitter-handle: "pcsrankandfile"
+
+#github-url:  "https://github.com/pcsrankandfile"
+#github-handle:  "pcsrankandfile"
+
+####
+# Google
+#  - Settings for Google Analytics (remove # to use)
+####
+#google-site-verification: ""
+#google-analytics: ""
+
+
+####
+# Collections:
+#  - Post/News settings (ect)
+####
+permalink: /news/:year/:month/:day/:title:output_ext
 
 collections:
-  archives:
-    output: true
-    permalink: /archive/:title/
-    defaults:
-      values:
-        layout: news
   publications:
     output: true
     permalink: /publication/:title/
@@ -14,9 +83,11 @@ collections:
       values:
         layout: publication
 
-url: "http://www.pcsrankandfile.com" # e.g. http://example.com
 
-baseurl: "" # e.g. /blog
-
+####
+# Build Settings
+####
+url: "http://pcsrankandfile.com"
+baseurl: ""
 markdown: kramdown
-
+public: false
