@@ -1,10 +1,10 @@
-<html lang="en">
+<html itemscope itemtype="http://schema.org/Article">
 	{% include head.html %}
-	<body class="{{ page.layout }}">
-        {% if site.public or page.name = "preview.html" %}
+    <body class="{{ page.layout }}">
+		{% if site.public %}
 	    {{ content }}
 		{% else %}
 		{% include dev.html %}
 		{% endif %}
-	</body>
+    </body>
 </html>

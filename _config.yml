@@ -32,7 +32,7 @@ home-publications: true
 # Website Design:
 #  - Defult Images (These are shared on social media & in browser menus)
 ####
-social-media-image: "/assets/site/images/social-media.jpg"
+social-media-image: "/assets/site/images/400x400.jpg"
 touch: "/assets/site/images/touch.png"
 logo-favicon-small: "/assets/site/images/favicon-16x16.png"
 logo-favicon-medium: "/assets/site/images/favicon-32x32.png"
@@ -51,14 +51,14 @@ pinned-colour: "#EE4035"
 #facebook-app-id: "..." # For Facebook OpenGraph integration
 #facebook-profile-id: "..." # For Facebook OpenGraph integration
 #facebook-admin-id: "..." # For Facebook OpenGraph integration
-#facebook-url:	"https://facebook.com/pcsrankandfile"
-#facebook-handle: "pcsrankandfile"
+facebook-url:	"https://facebook.com/pcsrankandfile"
+facebook-handle: "pcsrankandfile"
 
-#twitter-url: "https://twitter.com/pcsrankandfile"
-#twitter-handle: "pcsrankandfile"
+twitter-url: "https://twitter.com/pcsrankandfile"
+twitter-handle: "pcsrankandfile"
 
-#github-url:  "https://github.com/pcsrankandfile"
-#github-handle:  "pcsrankandfile"
+github-url:  "https://github.com/pcsrankandfile"
+github-handle:  "pcsrankandfile"
 
 ####
 # Google
