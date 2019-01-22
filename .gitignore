@@ -27,6 +27,3 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
-
-#misc
-test.html
