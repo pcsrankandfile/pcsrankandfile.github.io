@@ -7,7 +7,7 @@
 
         <title>PCS HMRC Rank & File Network</title>
         <meta name="description" content="Here..">
-        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <style>
             * {
@@ -22,8 +22,6 @@
                 display:block;
             }
 
-        
-            @media only screen and (min-width: 961px) {
                 header.site-header {
                     width: 100%;
                     height: 155px;
@@ -94,7 +92,16 @@
                     text-decoration: underline;
                 }
 
-                .home .content .about {
+                .home {
+                    display: flex;
+                    flex-wrap: wrap;
+                    width: 100%;
+
+                    align-items: center;
+                    justify-content: center;
+                }
+
+                .home  .about {
                     background: #1a1a1a;
                     color: #f2f2f2;
                     height: 400px;
@@ -104,17 +111,108 @@
 
                     padding: 70;
 
+                    width: 100%;
+
                 }
 
-                .home .content .about p strong {
+                
+                .home  .about p strong {
                     color: #EE4035;
                 }
-            }
+
+                .home .news {
+                    order: 1;
+                    width: 100%;
+                    height: 400px;
+                    
+                }
+
+                .home .social {
+                    order: 3;
+                }
+
+                .home .join {
+                    order: 2;
+                }
+                .home .social, .home .join {
+                    height: 300px;
+                }
+
+                .home .news ul, .home .social ul, .home .join ul{
+                    list-style: none;
+                }
+              /*mobiles*/ @media only screen and (max-width: 636px) {
+                header.site-header section img {
+                        height: 60px;
+                     
+                    }
+
+                    header.site-header section h1 {
+                        font-size: 15px;
+                        line-height: 20px;
+                    }
+                    header.site-header {
+                        height: 90px;
+                    }
+                    header.site-header nav ul li a, header.site-header nav ul li a:hover, header.site-header nav ul li a:focus {
+                    font-size: 17px;    
+                    }
+                    header.site-header nav ul {
+                        margin: 15;
+                    }
+
+                    .home  .about {
+                        font-size: 25px;
+                    }
+
+                    .home .news, .home .social, .home .join {
+                        width: 100%;
+                    }
+                }
+
+                /* Tablets */ @media only screen and (min-width: 636px) and (max-width: 960px) { 
+                    header.site-header section img {
+                        height: 75px;
+                     
+                    }
+
+                    header.site-header section h1 {
+                        font-size: 25px;
+                        line-height: 30px;
+                    }
+                    header.site-header {
+                        height: 100px;
+                    }
+                    header.site-header nav ul li a, header.site-header nav ul li a:hover, header.site-header nav ul li a:focus {
+                    font-size: 30px;    
+                    }
+                    header.site-header nav ul {
+                        margin: 15;
+                    }
+
+                    .home  .about {
+                        font-size: 30px;
+                        padding-top: 100px;
+                    }
+                   
+                    .home .social, .home .join {
+                        width: 50%;
+                    }
+                }
+  
+                /*desktops*/@media only screen and (min-width: 961px) {
+                    
+                    
+                    
+                    .home .social, .home .join {
+                        width: 50%;
+                    }
+                }
         </style>
         <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
 
     </head>
-    <body class="home">
+    <body>
         <header class="site-header">
             <section>
               <a href="#"><img src="assets/site/images/logo.svg" alt="Logo" /></a>
@@ -130,18 +228,70 @@
             </nav>
         </header>
 
-        <main class="content">
+        <main class="home">
             <section class="about">
                 <p>
                     The <strong>PCS HMRC Rank & File Network</strong> is a new initiative from activists in R&C Group who believe the union needs to reconnect with its members to be more effective in fighting to defend and improve our pay and conditions.
                 </p>
             </section>
 
-            <section class="posts">
-                <h2>Recent Posts</h2>
+            <section class="news">
+                <h2>Recent News</h2>
                 <ul>
-                    <li></li>
+                    <li>
+                        <article>
+                            <h2>Heading here.. </h2>
+                            <p>Breif extract from post will be here</p>
+                            <p>Published on Date by Person</p>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <h2>Heading here.. </h2>
+                            <p>Breif extract from post will be here</p>
+                            <p>Published on Date by Person</p>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <h2>Heading here.. </h2>
+                            <p>Breif extract from post will be here</p>
+                            <p>Published on Date by Person</p>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <h2>Heading here.. </h2>
+                            <p>Breif extract from post will be here</p>
+                            <p>Published on Date by Person</p>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <h2>Heading here.. </h2>
+                            <p>Breif extract from post will be here</p>
+                            <p>Published on Date by Person</p>
+                        </article>
+                    </li>
                 </ul>
+            </section>
+
+            <section class="social">
+                <h2>We're also on social media</h2>
+                <ul>
+                    <li>
+                        <p>twitter</p>
+                    </li>
+
+                    <li>
+                         <p>facebook</p>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="join">
+                <h2>Join us</h2>
+                <p>join us text</p>
             </section>
         </main>
     </body>

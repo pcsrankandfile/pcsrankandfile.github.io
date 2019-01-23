@@ -26,7 +26,6 @@ home-splash-3: "content..."
 #  - Homepage Sections (Change values to false to disable)
 ####
 home-news: true
-home-publications: true
 
 ####
 # Website Design:
@@ -73,14 +72,6 @@ github-handle:  "pcsrankandfile"
 #  - Post/News settings (ect)
 ####
 permalink: /news/:year/:month/:day/:title:output_ext
-
-collections:
-  publications:
-    output: true
-    permalink: /publication/:title/
-    defaults:
-      values:
-        layout: publication
 
 
 ####
