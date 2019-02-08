@@ -1,127 +1,93 @@
-# Site settings
-title:       "PCS HMRC Rank & File"
-email:       hello@pcsrankandfile.com
-author:      PCS Rank & File
-description: "The PCS HMRC Rank & File Network is a new initiative from activists in R&C Group who believe the union needs to reconnect with its members to be more effective in fighting to defend and improve our pay and conditions."
-baseurl:  ""
-url:         "http://pcsrankandfile.com"
-date_format: "%b %-d, %Y"
-header_pages:
- - slate.md
+####
+# Basic Website Details
+####
+title: "PCS HMRC Rank & File Network"
+short-title: "Rank & File Network"
+author: "PCS HMRC Rank & File Network"
+description: "Here.."
 
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
-# Bing services
-bing_verification:
+email: hello@pcsrankandfile.com
 
-# Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
-ajaxify_contact_form: false
-enable_mathjax: false
-extended_fonts: false
-enable_anchorjs: false
-# Preview image for social media aka og:image and twitter:image
-post_preview_image: false
+####
+# Navigation Menu:
+#  - To customise the navigation menu, edit the "menu.csv" in the "_data" folder. 
+####
 
-# Facebook Page integration
-# (for instant articles and other stuff)
-fb_page: false
-fb_page_id:
+####
+# Homepage Settings:
+#  - Homepage image splash secion
+####
+home-splash: true #Change to 'false' to disable. 
+home-splash-heading: "HMRC Rank & File Network"
+home-splash-subheading: "Campaigning for a better union"
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
+####
+# Homepage Settings:
+#  - Homepage 'Call To Action' secion
+####
+home-cta: true #Change to 'false' to disable. 
+home-cta-text: "We're standing for the GEC"
+home-cta-link: "#noms"
+home-cta-link-text: "Nominate!"
 
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
-facebook_comments_number: 10
+####
+# Footer Settings:
+#  - Text to display in the footer
+####
+footer-text: PCS Revenue & Customs Rank and File Netwok.
 
-# Social icons
-github_username:
-reddit_username:
-bitbucket_username:
-stackoverflow_id:
-twitter_username: pcsrankandfile
-skype_username:
-steam_nickname:
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
-telegram_username:
-vk_id:
 
-# Post sharing icons
-show_sharing_icons: false
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
+####
+# Website Design:
+#  - Defult Images (These are shared on social media & in browser menus)
+####
+social-media-image: "/assets/site/images/400x400.jpg"
+touch: "/assets/site/images/touch.png"
+logo-favicon-small: "/assets/site/images/favicon-16x16.png"
+logo-favicon-medium: "/assets/site/images/favicon-32x32.png"
+logo-favicon-large: "/assets/site/images/favicon-96x96.png"
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-  share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
-  post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
-  index:
-    coming_soon: 'Coming soon...'
-  contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
-    ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+####
+# Website Design:
+#  - Pinned Colour is used by android(ect)
+####
+pinned-colour: "#EE4035"
 
-# Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     4
-sass:
-  style: compressed
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+####
+# Social Media
+#  - Settings for social media (remove # to use)
+####
+#facebook-app-id: "..." # For Facebook OpenGraph integration
+#facebook-profile-id: "..." # For Facebook OpenGraph integration
+#facebook-admin-id: "..." # For Facebook OpenGraph integration
+facebook-url:	"https://facebook.com/pcsrankandfile"
+facebook-handle: "pcsrankandfile"
+
+twitter-url: "https://twitter.com/pcsrankandfile"
+twitter-handle: "pcsrankandfile"
+
+#github-url:  "https://github.com/pcsrankandfile"
+github-handle:  "pcsrankandfile"
+
+####
+# Google
+#  - Settings for Google Analytics (remove # to use)
+####
+#google-site-verification: ""
+#google-analytics: ""
+
+
+####
+# Collections:
+#  - Post/News settings (ect)
+####
+permalink: /news/:year/:month/:day/:title:output_ext
+
+
+####
+# Build Settings
+####
+url: "http://pcsrankandfile.com"
+baseurl: ""
+markdown: kramdown
+public: false #to hide website while testing.. 

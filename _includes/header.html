@@ -1,14 +1,11 @@
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-      </nav>
-      <div class="clearfix"></div>
-      {% if site.show_social_icons %}
-        {% include social_links.html %}
-      {% endif %}
-    </div>
-  </div>
-</header>
+<div class="navigation-bar dark w-nav">
+        <a href="index.html" class="brand-link left-spacing w-nav-brand w--current">
+          <img src="{{ '/logo.svg' | prepend:'assets/images' }}" width="52" alt="">
+          <h1 class="brand-text">{{ site.short-title }}</h1>
+        </a>
+        <nav role="navigation" class="navigation-menu w-nav-menu">
+          {% for link in site.data.menu %}
+          <a href="{{ link.url | prepend: site.base-url }}" class="navigation-link white align-right w-nav-link">{{ link.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
