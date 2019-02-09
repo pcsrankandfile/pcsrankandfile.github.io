@@ -1,8 +1,10 @@
 ---
 layout: post
+
 title: "Why are you standing - Emma Hughes?"
 auther: "Emma Hughes"
 date: 2019-01-23
+
 image: "/emma.jpg" #Place images in 'assets/documents'
 extract: "I decided I can either sit at my desk and moan about how things are ran 🤷‍♀️ or I can get involved and try to make a difference no matter how small ❤️"
 ---
