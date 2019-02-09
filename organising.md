@@ -21,4 +21,4 @@ We won’t be able to do all, or even most, of this overnight. The strength of b
 Like all organising, the basic building block is one on one conversations with our fellow workers. Other fundamentals of organising such as mapping and identifying workplace leaders are also key. The question is whether we pay lip service to these methods in order to simply recruit new members, or we put the work in to fundamentally change the culture of the union and shift the balance of power between the workers and the bosses.
 If you want to do the latter, then [get in touch](mailto:{{ site.email }}). Our aim is to help anyone wanting to organise a stronger union, led by its rank and file members.
 
-Electing reps who support our aims to the GEC isn’t the main point of our work, but we believe it will help. So please also consider nominating our [candidates](/elections/) at your Annual General Meeting.
+Electing reps who support our aims to the GEC isn’t the main point of our work, but we believe it will help. So please also consider nominating our [candidates]({{ '/elections' | prepend: site.baseurl | prepend: site.url }}) at your Annual General Meeting.

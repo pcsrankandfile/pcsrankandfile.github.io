@@ -13,7 +13,7 @@ layout: skeleton
 <div class="cta-section centered-accented">
   <div class="w-container">
     <h2 class="cta-heading inline-block">{{ site.home-cta-text }}</h2>
-    <a href="{{ site.home-cta-link }}" class="button white">{{ site.home-cta-link-text }}</a>
+    <a href="{{ site.home-cta-link | prepend: site.baseurl | prepend: site.url }}" class="button white">{{ site.home-cta-link-text }}</a>
   </div>
 </div>
 {% endif %}
@@ -28,7 +28,7 @@ layout: skeleton
           <div class="w-row">
             <div class="w-col w-col-6">
               <div class="w-row">
-                <div class="w-col w-col-4"><img src="{{ post.image }}" width="100" alt="" class="grid-image"></div>
+                <div class="w-col w-col-4"><img src="{{ post.image | prepend: '/assets/documents/' | prepend: site.baseurl | prepend: site.url }}" width="100" alt="" class="grid-image"></div>
                 <div class="w-col w-col-8">
                     <a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Read {{ post.title }}"><h3>{{ post.title }}</h3></a>
                   {{ post.excerpt }}
@@ -38,7 +38,7 @@ layout: skeleton
           {% when 2 %}
             <div class="w-col w-col-6">
               <div class="w-row">
-                  <div class="w-col w-col-4"><img src="{{ post.image }}" width="100" alt="" class="grid-image"></div>
+                  <div class="w-col w-col-4"><img src="{{ post.image | prepend: '/assets/documents/' | prepend: site.baseurl | prepend: site.url }}" width="100" alt="" class="grid-image"></div>
                   <div class="w-col w-col-8">
                       <a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Read {{ post.title }}"><h3>{{ post.title }}</h3></a>
                     {{ post.excerpt }}
@@ -50,7 +50,7 @@ layout: skeleton
           <div class="w-row">
             <div class="w-col w-col-6">
               <div class="w-row">
-                  <div class="w-col w-col-4"><img src="{{ post.image }}" width="100" alt="" class="grid-image"></div>
+                  <div class="w-col w-col-4"><img src="{{ post.image | prepend: '/assets/documents/' | prepend: site.baseurl | prepend: site.url }}" width="100" alt="" class="grid-image"></div>
                   <div class="w-col w-col-8">
                       <a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Read {{ post.title }}"><h3>{{ post.title }}</h3></a>
                     {{ post.excerpt }}
@@ -60,7 +60,7 @@ layout: skeleton
           {% when 4 %}
             <div class="w-col w-col-6">
               <div class="w-row">
-                  <div class="w-col w-col-4"><img src="{{ post.image }}" width="100" alt="" class="grid-image"></div>
+                  <div class="w-col w-col-4"><img src="{{ post.image | prepend: '/assets/documents/' | prepend: site.baseurl | prepend: site.url }}" width="100" alt="" class="grid-image"></div>
                   <div class="w-col w-col-8">
                       <a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Read {{ post.title }}"><h3>{{ post.title }}</h3></a>
                     {{ post.excerpt }}

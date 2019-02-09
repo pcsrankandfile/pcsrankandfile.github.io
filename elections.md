@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-![Elections](assets/documets/images/GEC Slate.jpg)
+![Elections]({{ '/GEC Slate.jpg' | prepend: '/assets/documents' | prepend: site.baseurl | prepend: site.url }})

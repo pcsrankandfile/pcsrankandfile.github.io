@@ -1,11 +1,11 @@
 <div class="navigation-bar dark w-nav">
-        <a href="index.html" class="brand-link left-spacing w-nav-brand w--current">
-          <img src="{{ '/logo.svg' | prepend:'assets/images' }}" width="52" alt="">
+        <a href="{{ site.baseurl | prepend: site.url }}" class="brand-link left-spacing w-nav-brand w--current">
+          <img src="{{ '/logo.svg' | prepend:'assets/images' | prepend: site.baseurl | prepend: site.url }}" width="52" alt="">
           <h1 class="brand-text">{{ site.short-title }}</h1>
         </a>
         <nav role="navigation" class="navigation-menu w-nav-menu">
           {% for link in site.data.menu %}
-          <a href="{{ link.url | prepend: site.base-url }}" class="navigation-link white align-right w-nav-link">{{ link.title }}</a>
+          <a href="{{ link.url | prepend: site.baseurl | prepend: site.url }}" class="navigation-link white align-right w-nav-link">{{ link.title }}</a>
           {% endfor %}
         </nav>
       </div>
