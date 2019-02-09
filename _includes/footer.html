@@ -1,10 +1,10 @@
 <div class="footer">
     <div class="w-container">
         <div class="float-right">
-            {% if site.facebook-url %}<a href="{{ site.facebook-url }}" target="_blank" class="social-icon-link w-inline-block"><img src="{{ '/social-03.svg' | prepend:'assets/images' }}" width="20" alt="{{ site.facebook-handle }}"></a>{% endif %}
-            {% if site.twitter-url %}<a href="{{ site.twitter-url }}" target="_blank" class="social-icon-link w-inline-block"><img src="{{ '/social-18.svg' | prepend:'assets/images' }}" width="20" alt="{{ site.twitter-handle | prepend:'@'}}"></a>{% endif %}
-            {% if site.github-url %}<a href="{{ site.github-url }}" target="_blank" class="social-icon-link w-inline-block"><img src="{{ '/social-33.svg' | prepend:'assets/images'  }}" width="20" alt="{{ site.github-handle }} on Github.com"></a>{% endif %}
-            {% if site.email %}<a href="{{ site.email | prepend:'mailto:' }}" target="_blank" class="social-icon-link w-inline-block"><img src="{{ '/social-30.svg' | prepend:'assets/images' }}" width="20" alt="{{ site.email }}"></a>{% endif %}
+            {% if site.facebook-url %}<a href="{{ site.facebook-url }}" target="_blank" class="social-icon-link w-inline-block"><img src="{{ '/social-03.svg' | prepend:'/assets/images' | prepend: site.baseurl | prepend: site.url }}" width="20" alt="{{ site.facebook-handle }}"></a>{% endif %}
+            {% if site.twitter-url %}<a href="{{ site.twitter-url }}" target="_blank" class="social-icon-link w-inline-block"><img src="{{ '/social-18.svg' | prepend:'/assets/images' | prepend: site.baseurl | prepend: site.url }}" width="20" alt="{{ site.twitter-handle | prepend:'@'}}"></a>{% endif %}
+            {% if site.github-url %}<a href="{{ site.github-url }}" target="_blank" class="social-icon-link w-inline-block"><img src="{{ '/social-33.svg' | prepend:'/assets/images' | prepend: site.baseurl | prepend: site.url  }}" width="20" alt="{{ site.github-handle }} on Github.com"></a>{% endif %}
+            {% if site.email %}<a href="{{ site.email | prepend:'mailto:' }}" target="_blank" class="social-icon-link w-inline-block"><img src="{{ '/social-30.svg' | prepend:'/assets/images' | prepend: site.baseurl | prepend: site.url }}" width="20" alt="{{ site.email }}"></a>{% endif %}
         </div>
         <div class="footer-text">{{ site.footer-text }}</div>
     </div>
