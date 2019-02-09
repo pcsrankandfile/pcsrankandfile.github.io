@@ -6,7 +6,7 @@ date: 2019-01-25
 
 image: "annette.jpg" #Place images in 'assets/documents'
 
-extract: "I'm standing with this lot in PCS because I see my role as a union rep to be one of working with the members who elected me to collectively take forward the issues that matter to them. I won't be told not to do that because external political organisations have other plans or because people with whom I have no personal connection will be unable to like me as a consequence."
+excerpt: "I'm standing with this lot in PCS because I see my role as a union rep to be one of working with the members who elected me to collectively take forward the issues that matter to them. I won't be told not to do that because external political organisations have other plans or because people with whom I have no personal connection will be unable to like me as a consequence."
 
 #post content undet the '---'. See https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf for markdown examples. 
 ---
