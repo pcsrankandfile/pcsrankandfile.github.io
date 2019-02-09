@@ -9,7 +9,7 @@ image: "/emma.jpg"
 
 excerpt: "I decided I can either sit at my desk and moan about how things are ran 🤷‍♀️ or I can get involved and try to make a difference no matter how small ❤️"
 ---
-![Elections]({{ page.image | prepend: '/assets/documents' | prepend: site.baseurl | prepend: site.url }})
+![Emma]({{ page.image | prepend: '/assets/documents' | prepend: site.baseurl | prepend: site.url }})  
 Throwback to my very first picket line‬ 😂
 
 ‪I’ve chosen to run for GEC this year, not a decision I came to lightly considering my caring responsibilities but‬ I strongly believe everyone should have a voice & a right to have it heard. I want a union that is an inclusive environment where debate is welcomed and everyone’s opinion is valued. ‬

@@ -10,7 +10,7 @@ excerpt: "I'm standing with this lot in PCS because I see my role as a union rep
 
 #post content undet the '---'. See https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf for markdown examples. 
 ---
-![Annette]({{ page.image | prepend: '/assets/documents' | prepend: site.baseurl | prepend: site.url }})![Annette]({{ '/annette2.jpg' | prepend: '/assets/documents' | prepend: site.baseurl | prepend: site.url }})
+![Annette]({{ page.image | prepend: '/assets/documents' | prepend: site.baseurl | prepend: site.url }})![Annette]({{ '/annette2.jpg' | prepend: '/assets/documents' | prepend: site.baseurl | prepend: site.url }})  
 I have got an older photo of me on a picket line somewhere but this is the oldest one I've got on here, combined with an old photo of me at a union event in London and I think the earliest picket line I've been at, Unite First Buses at 4am.
 
 I'm standing with this lot in PCS because I see my role as a union rep to be one of working with the members who elected me to collectively take forward the issues that matter to them. I won't be told not to do that because external political organisations have other plans or because people with whom I have no personal connection will be unable to like me as a consequence. 
