@@ -90,3 +90,9 @@ permalink: /news/:year/:month/:day/:title:output_ext
 url: "http://pcsrankandfile.com"
 baseurl: ""
 markdown: kramdown
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: true
+  startings: [head, body]
