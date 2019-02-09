@@ -4,7 +4,7 @@
 title: "PCS HMRC Rank & File Network"
 short-title: "Rank & File Network"
 author: "PCS HMRC Rank & File Network"
-description: "Here.."
+description: "The PCS HMRC Rank & File Network is a new initiative from activists in R&C Group who believe the union needs to reconnect with its members to be more effective in fighting to defend and improve our pay and conditions."
 
 email: hello@pcsrankandfile.com
 
@@ -27,14 +27,14 @@ home-splash-subheading: "Campaigning for a better union"
 ####
 home-cta: true #Change to 'false' to disable. 
 home-cta-text: "We're standing for the GEC"
-home-cta-link: "#noms"
+home-cta-link: "/elections"
 home-cta-link-text: "Nominate!"
 
 ####
 # Footer Settings:
 #  - Text to display in the footer
 ####
-footer-text: PCS Revenue & Customs Rank and File Netwok.
+footer-text: "PCS Revenue & Customs Rank and File Netwok."
 
 
 ####
@@ -66,7 +66,7 @@ facebook-handle: "pcsrankandfile"
 twitter-url: "https://twitter.com/pcsrankandfile"
 twitter-handle: "pcsrankandfile"
 
-#github-url:  "https://github.com/pcsrankandfile"
+github-url:  "https://github.com/pcsrankandfile"
 github-handle:  "pcsrankandfile"
 
 ####
@@ -90,4 +90,3 @@ permalink: /news/:year/:month/:day/:title:output_ext
 url: "http://pcsrankandfile.com"
 baseurl: ""
 markdown: kramdown
-public: false #to hide website while testing.. 
