@@ -44,6 +44,7 @@ Being well organised is exactly what success will come down to in this ballot, a
 
 There will be many branches who are on top of this already. The union’s organising department is also developing materials aimed at giving all reps the confidence to organise in the workplace. Their approach to mapping, identifying workplace leaders, structure tests and taking direct action drawn from the ideas of US union organiser Jane McAlevey, who in turn draws it from the likes of the Wobblies, the Black Panthers and others. These aren’t new ideas. However, they are ideas a lot of us need to relearn.
 
+ 
 <iframe src="https://player.vimeo.com/video/285209608" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 There are still enough people at the top of the union, in both the lay structures and the full time officer cadres, who remain dismissive of this approach. It’s just “Bernie Sanders stuff,” to quote one derisive reaction to it. Then, at branch level, there are hardworking and committed activists floundering. Their branch densities are low, there aren’t enough other reps to support them, and they’re drowning in personal casework, and so on.
