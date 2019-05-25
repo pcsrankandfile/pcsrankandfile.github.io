@@ -25,7 +25,7 @@ home-splash-subheading: "Campaigning for a better union"
 # Homepage Settings:
 #  - Homepage 'Call To Action' secion
 ####
-home-cta: true #Change to 'false' to disable. 
+home-cta: false #Change to 'false' to disable. 
 home-cta-text: "We're standing for the GEC"
 home-cta-link: "/elections"
 home-cta-link-text: "Nominate!"
