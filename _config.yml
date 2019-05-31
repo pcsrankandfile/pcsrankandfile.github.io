@@ -87,7 +87,7 @@ permalink: /news/:year/:month/:day/:title:output_ext
 ####
 # Build Settings
 ####
-url: "http://pcsrankandfile.com"
+url: "https://pcsrankandfile.com"
 baseurl: ""
 markdown: kramdown
 compress_html:
