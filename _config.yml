@@ -96,3 +96,91 @@ compress_html:
   endings: all
   profile: false
   startings: [head, body]
+
+####
+# https://prose.io/
+####
+prose:
+  siteurl: 'https://pcsrankandfile.com/'
+  media: 'assets/images'
+  ignore:
+  - .gitattributes
+  - .gitignore
+  - 404.html
+  - CNAME
+  - README.md
+  - _config.yml
+  - /join-us
+  - /_layouts
+  - /_includes
+  - index.md
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"    
+      - name: "regions"
+        field:
+          element: "multiselect"
+          label: "Add regions this post applies to"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Northern Ireland"
+              value: "northernireland"
+            - name: "Scotland"
+              value: "scotland"
+            - name: "Wales"
+              value: "wales"
+            - name: "East of England"
+              value: "eastofengland"
+            - name: "East Midlands"
+              value: "eastmidlands"
+            - name: "West Midlands"
+              value: "westmidlands"
+            - name: "London"
+              value: "london"
+            - name: "North East"
+              value: "northeast"
+            - name: "North West"
+              value: "northwest"
+            - name: "South East"
+              value: "southeast"
+            - name: "South West"
+              value: "southwest"
+            - name: "Yorkshire and Humber"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          label: "Post title"
+          placeholder: "Enter your post title here"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          value: "Rank & File Network"
+          label: "Author"
+      - name: "date"
+        field:
+          element: "text"
+          type: "text"
+          value: "2000-01-01"
+          label: "Post date"
+          placeholder: "2000-01-01"
+      - name: "permalink"
+        field:
+          element: "text"
+          type: "text"
+          label: "Permalink"
+          placeholder: "news/2018/01/01/name-of-post"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          placeholder: "Enter the short summary for the post here."
+      - name: "published"
+        field: 
+          element: "checkbox"
+          label: "Publish post?"
+          value: true
