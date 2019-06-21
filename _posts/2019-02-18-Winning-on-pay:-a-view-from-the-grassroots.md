@@ -6,6 +6,9 @@ auther: "PCS Rank & File"
 date: 2019-02-18
 
 excerpt: "Being well organised is exactly what success will come down to in this ballot, and seeing this union become well organised from the grassroots up is exactly what the PCS HMRC Rank & File Network is aiming for."
+
+
+published: true
 ---
 Between 18 March and 29 April, PCS will be balloting civil servants for industrial action over deepening pay injustice.
 
