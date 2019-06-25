@@ -25,10 +25,10 @@ home-splash-subheading: "Campaigning for a better union"
 # Homepage Settings:
 #  - Homepage 'Call To Action' secion
 ####
-home-cta: false #Change to 'false' to disable. 
-home-cta-text: "We're standing for the GEC"
-home-cta-link: "/elections"
-home-cta-link-text: "Nominate!"
+home-cta: true #Change to 'false' to disable. 
+home-cta-text: "Help us build the rank and file movement. "
+home-cta-link: "https://pcsrankandfile.us20.list-manage.com/subscribe?u=02fb4405bc5e114328b0d2815&id=f6314cced8" 
+home-cta-link-text: "Join Us"
 
 ####
 # Footer Settings:
