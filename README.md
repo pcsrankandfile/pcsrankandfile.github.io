@@ -1,2 +1,2 @@
 # pcsrankandfile.github.io
-Jekyll website for the PCS HMRC Rank &amp; File Network. 
+Jekyll website for the PCS Rank &amp; File Network. 
