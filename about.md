@@ -1,29 +1,21 @@
 ---
 layout: page
+published: true
 ---
-# WHO WE ARE
-The PCS HMRC Rank & File Network is a new initiative from activists in R&C Group who believe the union needs to reconnect with its members to be more effective in fighting to defend and improve our pay and conditions.
+# Who we are
 
-# THE UNION WE NEED
+We are activists who believe that PCS needs to reconnect with its members in order to build a strong, effective union. Our Network is a new initiative whose aim is to argue for a different way of organising in the workplace, to put those ideas into practice, and to hopefully transform the union.
+
+# The union we need
+
 We stand for a union which:
 - Takes a direct lead from members in all negotiations;
-- Gives  members the right to elect and to recall all officials who negotiate on their behalf;
+- Gives members the right to elect and to recall all officials who negotiate on their behalf;
 - Has workers’ representatives on a worker’s wage;
 - Organises in-house and outsourced workers together;
 - Fights not just to stop things getting worse but for radical improvements in our working conditions;
 - Builds for imaginative, effective action to win real victories.
 
-# OUR DEMANDS
-We believe that the union needs to be making more radical demands of the bosses that will benefit all workers. This includes:
-- A £10 per hour minimum wage (£11.55 in London) to underpin the pay scales;
-- Spot rates for all grades of at least the current maxima;
-- A shorter working week of 28 hours with no loss of pay;
-- The restoration of 6 months’ sick pay and privilege leave for all workers;
-- An end to the draconian and discriminatory attendance management policy;
-- All services to be brought in-house with parity of pay and conditions;
-- Lifelong quality training and upskilling for all workers;
-- Recruitment and a reversal of office closures to create a properly resourced tax authority. 
+# Building a movement
 
-# GET INVOLVED!
-To build the kind of union we want to see, we are looking to expand our network across as many branches as possible. This will allow us to support each other in our organising, improving PCS’s strength on the ground and boosting the confidence of members whilst ensuring that no branch is left isolated to fend for itself.
-If you want to get involved, [contact us](mailto:{{ site.email }}). We welcome the involvement of all PCS members who support what we are trying to achieve. 
+Moving from the kind of union that we currently have to the one we wish to see will not happen overnight. We need to expand our network across as many branches as possible. This will allow us to support each other in our organising, improving PCS’s strength on the ground and boosting the confidence of members whilst ensuring that no branch is left isolated to fend for itself. If you want to get involved, [contact us](mailto:hello@pcsrankandfile.com). We welcome the involvement of all PCS members who support what we are trying to achieve.
