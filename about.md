@@ -2,7 +2,7 @@
 layout: page
 published: true
 ---
-# Who we are
+<h1 class="section-heading centered">Who we are</h1>
 
 We are activists who believe that PCS needs to reconnect with its members in order to build a strong, effective union. Our Network is a new initiative whose aim is to argue for a different way of organising in the workplace, to put those ideas into practice, and to hopefully transform the union.
 
