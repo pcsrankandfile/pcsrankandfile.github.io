@@ -16,6 +16,18 @@ We stand for a union which:
 - Fights not just to stop things getting worse but for radical improvements in our working conditions;
 - Builds for imaginative, effective action to win real victories.
 
+# Our demands
+
+We believe that the union needs to be making more radical demands of the bosses that will benefit all workers. This includes:
+- A £10 per hour minimum wage (£11.55 in London) to underpin the pay scales;
+- Spot rates for all grades of at least the current maxima;
+- A shorter working week of 28 hours with no loss of pay;
+- The restoration of 6 months’ sick pay and privilege leave for all workers;
+- An end to the draconian and discriminatory attendance management policy;
+- All services to be brought in-house with parity of pay and conditions;
+- Lifelong quality training and upskilling for all workers;
+- Recruitment and a reversal of office closures to create properly resourced public authorities.
+
 # Building a movement
 
 Moving from the kind of union that we currently have to the one we wish to see will not happen overnight. We need to expand our network across as many branches as possible. This will allow us to support each other in our organising, improving PCS’s strength on the ground and boosting the confidence of members whilst ensuring that no branch is left isolated to fend for itself. If you want to get involved, [contact us](mailto:hello@pcsrankandfile.com). We welcome the involvement of all PCS members who support what we are trying to achieve.
