@@ -1,4 +1,4 @@
-# Candidates standing on the rank and file platform
+<h1 class="section-heading centered">Candidates standing on the rank and file platform</h1>
 
 In the run up to any elections where members of the Network are seeking nominations or standing, we will provide details here.
 
