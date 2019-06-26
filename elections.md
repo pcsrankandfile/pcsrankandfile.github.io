@@ -1,7 +1,28 @@
-# A forum, not a faction
+# Candidates standing on the rank and file platform
 
-The PCS Rank & File Network is an organising forum rather than an electoral faction. We welcome the support and involvement of anybody who genuinely wishes to help build a fighting rank and file movement in our union, including those who may otherwise be active in the union's various factions.
+In the run up to any elections where members of the Network are seeking nominations or standing, we will provide details here.
 
-However, we do recognise the benefit of having those who support our aims in various elected posts in the union. At election times, we will therefore promote the candidacy of our members contesting such elections.
+Members of the PCS Rank & File Network elected to union committees at a Group and National level include:
 
-This may well put us in opposition at times to the established factions. However, any serious rank and file movement should be independent of political factions, so we make no apologies for this stance.
+## National Executive Committee
+Phil Dickens
+
+## HMRC Group Executive Committee
+Phil Dickens
+
+## HMRC Group Disabled Members Advisory Committee
+Georgina Griffith
+
+## HMRC Group LGBT+ Advisory Committee
+Dean Davidson
+Ben Kelly
+
+## HMRC Group Women's Advisory Committee
+Kiri Abbott
+Chantelle Stone
+
+## HMRC Group Young Members Advisory Committee
+Shauna Baxter
+
+## HMRC Group Environmental Advisory Committee
+Tracy Spargo
