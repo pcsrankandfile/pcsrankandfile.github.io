@@ -1,10 +1,10 @@
 ####
 # Basic Website Details
 ####
-title: "PCS HMRC Rank & File Network"
+title: "PCS Rank & File Network"
 short-title: "Rank & File Network"
-author: "PCS HMRC Rank & File Network"
-description: "The PCS HMRC Rank & File Network is a new initiative from activists in R&C Group who believe the union needs to reconnect with its members to be more effective in fighting to defend and improve our pay and conditions."
+author: "PCS Rank & File Network"
+description: "The PCS Rank & File Network is a new initiative from activists in R&C Group who believe the union needs to reconnect with its members to be more effective in fighting to defend and improve our pay and conditions."
 
 email: hello@pcsrankandfile.com
 
@@ -18,7 +18,7 @@ email: hello@pcsrankandfile.com
 #  - Homepage image splash secion
 ####
 home-splash: true #Change to 'false' to disable. 
-home-splash-heading: "HMRC Rank & File Network"
+home-splash-heading: "Rank & File Network"
 home-splash-subheading: "Campaigning for a better union"
 
 ####
@@ -34,7 +34,7 @@ home-cta-link-text: "Join Us"
 # Footer Settings:
 #  - Text to display in the footer
 ####
-footer-text: "PCS Revenue & Customs Rank and File Netwok."
+footer-text: "PCS Rank and File Network. "
 
 
 ####
