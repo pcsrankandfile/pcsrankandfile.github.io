@@ -4,7 +4,7 @@ published: true
 ---
 <h1 class="section-heading centered">Get involved: help us build the rank and file!</h1>
 
-The PCS HMRC Rank & File Network wants to rebuild the union from the ground up. Part of that means standing candidates in elections, but first and foremost it means organising.
+The PCS Rank & File Network wants to rebuild the union from the ground up. Part of that means standing candidates in elections, but first and foremost it means organising.
 
 Our network is in its infancy, but already we have supporters in a number of branches. We will be looking to put our ideas into practice, arguing for them where we are in a minority but actually enacting them we are in a position to. The organising model we want to see is one which puts members in control of the union, giving them the confidence to act upon their collective power.
 
@@ -18,7 +18,7 @@ This means:
 
 **Organising strike committees** – when workers take strike action, they should have control over that action. How long will it be? What form will it take? When and how will we picket? Is the deal on offer good enough to call it off? These decisions should not be dictated from on high but driven by the striking workers. Strike committees are a must to put members in control of action and, as importantly, of whether an offer to settle is good enough.
 
-We won’t be able to do all, or even most, of this overnight. The strength of branches within HMRC varies wildly, and both the office closures and a decade of defeats and mismanaged disputes have taken their toll. But we have to start somewhere.
+We won’t be able to do all, or even most, of this overnight. The strength of branches within the union varies wildly, and both the office closures and a decade of defeats and mismanaged disputes have taken their toll. But we have to start somewhere.
 
 Like all organising, the basic building block is one on one conversations with our fellow workers. Other fundamentals of organising such as mapping and identifying workplace leaders are also key. The question is whether we pay lip service to these methods in order to simply recruit new members, or we put the work in to fundamentally change the culture of the union and shift the balance of power between the workers and the bosses.
 If you want to do the latter, then [get in touch](mailto:{{ site.email }}). Our aim is to help anyone wanting to organise a stronger union, led by its rank and file members.
