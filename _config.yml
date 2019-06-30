@@ -10,14 +10,14 @@ email: hello@pcsrankandfile.com
 
 ####
 # Navigation Menu:
-#  - To customise the navigation menu, edit the "menu.csv" in the "_data" folder. 
+#  - To customise the navigation menu, edit the "menu.csv" in the "_data" folder.
 ####
 
 ####
 # Homepage Settings:
 #  - Homepage image splash secion
 ####
-home-splash: true #Change to 'false' to disable. 
+home-splash: true #Change to 'false' to disable.
 home-splash-heading: "Rank & File Network"
 home-splash-subheading: "Campaigning for a better union"
 
@@ -25,9 +25,9 @@ home-splash-subheading: "Campaigning for a better union"
 # Homepage Settings:
 #  - Homepage 'Call To Action' secion
 ####
-home-cta: true #Change to 'false' to disable. 
+home-cta: true #Change to 'false' to disable.
 home-cta-text: "Help us build the rank and file movement. "
-home-cta-link: "https://pcsrankandfile.us20.list-manage.com/subscribe?u=02fb4405bc5e114328b0d2815&id=f6314cced8" 
+home-cta-link: "https://pcsrankandfile.us20.list-manage.com/subscribe?u=02fb4405bc5e114328b0d2815&id=f6314cced8"
 home-cta-link-text: "Join Us"
 
 ####
@@ -96,6 +96,7 @@ compress_html:
   endings: all
   profile: false
   startings: [head, body]
+remote_theme: pcsrankandfile/oldtheme
 
 ####
 # https://prose.io/
@@ -119,7 +120,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"    
+          value: "post"
       - name: "regions"
         field:
           element: "multiselect"
@@ -180,7 +181,7 @@ prose:
           label: "Excerpt"
           placeholder: "Enter the short summary for the post here."
       - name: "published"
-        field: 
+        field:
           element: "checkbox"
           label: "Publish post?"
           value: true
