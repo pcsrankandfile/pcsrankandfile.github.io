@@ -9,8 +9,8 @@ excerpt: >-
   what the PCS HMRC Rank & File Network is aiming for.
 published: true
 author: Rank & File Network
-regions: ''
-permalink: ''
+permalink: >-
+  https://pcsrankandfile.com/news/2019/02/18/Winning-on-pay-a-view-from-the-grassroots.html
 ---
 ![PCS_Article.jpg]({{site.baseurl}}/assets/images/PCS_Article.jpg)
 
