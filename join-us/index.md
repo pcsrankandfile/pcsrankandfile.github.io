@@ -105,7 +105,7 @@ layout: page
         <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow">
             <div class="gdpr-content">
                 <label id="gdpr-label">
-                    Marketing Permissions <span class="req asterisk">*</span>
+                    Permissions <span class="req asterisk">*</span>
                 </label>
                 <p id="gdpr-description">Please select all the ways you would like to hear from PCS Rank and File:</p>
                 <div><ul class="interestgroup_field checkbox-group"> <li class="!margin-bottom--lv2"> <label class="checkbox" for="gdpr_30677"><input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="gdpr_30677" name="gdpr[30677]" value="Y"  class="av-checkbox"><span>Email/Mailing List</span> </label> </li><li class="!margin-bottom--lv2"> <label class="checkbox" for="gdpr_30685"><input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="gdpr_30685" name="gdpr[30685]" value="Y" class="av-checkbox"><span>SMS/WhatsApp</span> </label> </li><li class="!margin-bottom--lv2"> <label class="checkbox" for="gdpr_30821"><input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="gdpr_30821" name="gdpr[30821]" value="Y"  class="av-checkbox"><span>Discussion Forum</span> </label> </li> </ul>
@@ -114,7 +114,7 @@ layout: page
                 <p id="gdpr-legal">You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
             </div>
             <div class="gdpr-footer">
-                <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+                <p>We use Mailchimp as our email platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
             </div>
         </div>
         
