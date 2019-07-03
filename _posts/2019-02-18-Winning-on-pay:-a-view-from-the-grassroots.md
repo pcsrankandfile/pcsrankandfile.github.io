@@ -9,8 +9,10 @@ excerpt: >-
   what the PCS HMRC Rank & File Network is aiming for.
 published: true
 author: Rank & File Network
+regions: ''
+permalink: ''
 ---
-![]({{site.baseurl}}/assets/images/PCS_Article.jpg)![PCS_Article.jpg]({{site.baseurl}}/assets/images/PCS_Article.jpg)
+![PCS_Article.jpg]({{site.baseurl}}/assets/images/PCS_Article.jpg)
 
 Between 18 March and 29 April, PCS will be balloting civil servants for industrial action over deepening pay injustice.
 
