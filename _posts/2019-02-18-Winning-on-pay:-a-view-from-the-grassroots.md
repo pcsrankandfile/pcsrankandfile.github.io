@@ -1,15 +1,17 @@
 ---
 layout: post
-
-title: "Winning on pay: a view from the grassroots"
-auther: "PCS Rank & File"
-date: 2019-02-18
-
-excerpt: "Being well organised is exactly what success will come down to in this ballot, and seeing this union become well organised from the grassroots up is exactly what the PCS HMRC Rank & File Network is aiming for."
-
-
+title: 'Winning on pay: a view from the grassroots'
+auther: PCS Rank & File
+date: 'Mon Feb 18 2019 00:00:00 GMT+0000 (Greenwich Mean Time)'
+excerpt: >-
+  Being well organised is exactly what success will come down to in this ballot,
+  and seeing this union become well organised from the grassroots up is exactly
+  what the PCS HMRC Rank & File Network is aiming for.
 published: true
+author: Rank & File Network
 ---
+![]({{site.baseurl}}/assets/images/PCS_Article.jpg)![PCS_Article.jpg]({{site.baseurl}}/assets/images/PCS_Article.jpg)
+
 Between 18 March and 29 April, PCS will be balloting civil servants for industrial action over deepening pay injustice.
 
 The strictest anti-union laws in the west require a 50% turnout for the ballot to count. Despite a heroic effort by activists, and both the highest national turnout and national yes vote in PCS’s history, we fell short in the last vote. That cannot be the case this time.
