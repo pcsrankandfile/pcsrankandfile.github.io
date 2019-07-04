@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Rank & File Network
-date: '2000-01-01'
+date: '2019-07-04'
 published: true
 title: Build the struggle against outsourcing!
 excerpt: >-
