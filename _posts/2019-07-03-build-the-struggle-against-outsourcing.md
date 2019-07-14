@@ -75,10 +75,15 @@ Once the workers decide that they are ready to be balloted for industrial action
 The process for getting a strike ballot and taking industrial action isn’t readily available on the PCS website, or otherwise publicised by the union’s officials, which is why we are laying it out below.
 
 1.	Get ballot ready – This is what all of the above organising activity is about. Once you’re in a strong position to deliver a decisive ballot result and strong action, then you’re ready to go. This is generally the point at which you would “go public.”
+
 2.	Issue demands to the employer – Before you can ballot, you need to have a trade dispute with the employer. This means that you have formally written to them to set out members’ demands, and they have either failed to respond or have refused to meet your demands by a deadline that you set.
-3.	Make a submission to the National Disputes Committee (NDC) - The NDC has to authorise all industrial action and ballots in PCS. To get their authorisation, the relevant full time official (usually the Group Secretary) needs to send them a completed submission form, and this is the most common cause of delays or blockages in the process. We would advise that you complete the form (which you can download below) and send it directly to the NDC, copying in the Group Secretary for information.
-The email address where the form needs to go is in the form, whilst you can find out contact details for the Group Secretary through the relevant pages of the PCS website. On the form itself, you can find guidance for filling in all of the relevant sections. This includes detailing the steps you have taken to raise your demands with the employer and to establish the will of the members for a dispute, evidence of the latter being their participation in the workplace committee and ideally also a hand vote in favour of going to a ballot.
+
+3.	Make a submission to the National Disputes Committee (NDC) - The NDC has to authorise all industrial action and ballots in PCS. To get their authorisation, the relevant full time official (the National Officer) needs to send them a completed submission form, and this is the most common cause of delays or blockages in the process. We would advise that you complete the form (which you can download below) and send it to your Group Secretary, but copy in the secretary of the NDC in order to ensure they are aware of it and that your submission doesn't disappear into a black hole at Group level.
+
+The email address for the NDC secretary is in the form, whilst you can find out contact details for the Group Secretary through the relevant pages of the PCS website. On the form itself, you can find guidance for filling in all of the relevant sections. This includes detailing the steps you have taken to raise your demands with the employer and to establish the will of the members for a dispute, evidence of the latter being their participation in the workplace committee and ideally also a hand vote in favour of going to a ballot.
+
 Where possible, you should give the NDC advance notice that you are building towards a ballot and will make a submission in due course.
+
 4.	Chase up – In order to avoid unnecessary delays, it is best to set reminders to follow up on your submission with the union, and to keep doing so until you have confirmation that the ballot will go ahead and a timetable for that.
 
 ### Don’t organise alone!
