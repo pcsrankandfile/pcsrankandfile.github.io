@@ -4,9 +4,14 @@ author: Rank & File Network
 date: '2019-08-06'
 published: true
 title: 'Event: Building a Fighting Rank & File Movement'
-excerpt: Building a Fighting Rank & File Movement
+excerpt: >-
+  We are hosting this summit in support of our aim to link up and support lay
+  union members who want to build the capacity of the rank and file membership
+  to take collective action: with the support of the union leadership where
+  possible, and without it where necessary. The full day event includes debate,
+  discussion and a practical training session on direct action in the workplace.
 ---
-![]({{site.baseurl}}/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F67465091%2F322974545073%2F1%2Foriginal.20190803-180106?w=800&auto=compress&rect=0%2C26%2C642%2C321&s=1e52037690f6d90dda8c0e9cfbb01b52)
+![65072515_486592201882412_3001899479516315648_n.jpg]({{site.baseurl}}/assets/images/65072515_486592201882412_3001899479516315648_n.jpg)
 
 ## Summit on militant, rank and file organising within the PCS union. Including debate, discussion and a practical training workshop.
 
