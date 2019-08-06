@@ -8,7 +8,7 @@ excerpt: Building a Fighting Rank & File Movement
 ---
 ![]({{site.baseurl}}/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F67465091%2F322974545073%2F1%2Foriginal.20190803-180106?w=800&auto=compress&rect=0%2C26%2C642%2C321&s=1e52037690f6d90dda8c0e9cfbb01b52)
 
-## c
+## Summit on militant, rank and file organising within the PCS union. Including debate, discussion and a practical training workshop.
 
 Sat, 14 September 2019, 11:00 – 17:00 BST
 Methodist Church, Oldham Street, Manchester, M1 1JQ (View Map)
