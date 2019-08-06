@@ -17,7 +17,8 @@ We are hosting this summit in support of our aim to link up and support lay unio
 
 The schedule below will be updated as more details are confirmed.
 
-Order your free ticket [on Eventbrite](https://www.eventbrite.co.uk/e/building-a-fighting-rank-file-movement-tickets-67885494341) | RSVP [on Facebook](https://www.facebook.com/events/1053304744867228/)
+Order your free ticket [on Eventbrite](https://www.eventbrite.co.uk/e/building-a-fighting-rank-file-movement-tickets-67885494341)
+RSVP [on Facebook](https://www.facebook.com/events/1053304744867228/)
 
 **Session 1: What is a rank and file movement?** (Group discussion.)
 
