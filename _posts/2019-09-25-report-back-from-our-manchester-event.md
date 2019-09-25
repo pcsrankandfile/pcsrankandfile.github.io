@@ -4,15 +4,12 @@ author: Rank & File Network
 date: '2019-09-25'
 published: true
 title: Report back from our Manchester event
-regions: ''
-permalink: ''
-excerpt: ''
 ---
 On Saturday 14 September, the PCS Rank & File Network held an organising event in Manchester. Though the crowd in attendance was relatively small it was also diverse, with activists from HMRC, DWP and other Groups who had travelled from across the country to attend. The majority of those in attendance were not previously part of the Rank & File Network.
 
 The aim of the event was, in essence, to begin a long-overdue conversation about how we organise as a union. We believe that the event met that aim, and we will be looking to hold further events around the country in order to keep that conversation going. The mix of open debate and educational workshop appeared to make the event more interesting and engaging than such an event might otherwise be and, with some tweaks based on feedback, that is a format we intend to continue with.
 
-##Session 1: What is a Rank & File Movement?
+## Session 1: What is a Rank & File Movement?
 
 In the opening session, Phil Millar from Bootle Taxes spoke about what we are trying to build with the Network. He sketched out some basic ideas on building rank and file activity up in the workplace and how a wider network could support branches in their organising efforts and live up to the goal of being a forum to support workers rather than a faction seeking power over them.
 
@@ -22,7 +19,7 @@ This led into an extremely animated and interesting discussion where participant
 
 Further reading: [_Workmates: Direct Action Organising on the London Underground_](http://www.solfed.org.uk/solfed/tp-1-workmates-direct-action-workplace-organising-on-the-london-underground), pamphlet by Solidarity Federation based on Andy’s experiences.
 
-##Session 2: Organising precarious workers and lessons for the wider movement
+## Session 2: Organising precarious workers and lessons for the wider movement
 
 Unfortunately, the panel discussion for the second session didn’t go as planned due to a number of last-minute apologies. These were unavoidable, but the meeting made the most of what was available by amalgamating this session into the themes of the previous one.
 
@@ -32,7 +29,7 @@ In much of the trade union movement, failures are played down, glossed over or s
 
 Further reading: [No Love for Deliveroo! A reflection on organising and mobilising in the “gig” economy](https://newsyndicalist.org/2019/02/15/manchester-deliveroo-strike/) and [Not a single wheel can turn: Further thoughts on organising and mobilising in the “gig” economy](https://newsyndicalist.org/2019/03/01/not-a-single-wheel-can-turn-further-thoughts-on-organising-and-mobilising-in-the-gig-economy/), from the _New Syndicalist_. [I, Wobbly — a new cycle of the IWW](https://freedomnews.org.uk/i-wobbly-a-new-cycle-of-the-iww/) from _Freedom News_.
 
-##Session 3: IWW workshop on taking direct action in the workplace
+## Session 3: IWW workshop on taking direct action in the workplace
 
 The IWW members present also offered up some practical training to the attendees, based upon their union’s Workplace Organiser Training Programme. The full programme usually covers one to two days, but the condensed version allowed for sessions on mapping the workplace, identifying and working with workplace leaders, and a role play of a “March on the Boss” direct action.
 
@@ -48,7 +45,7 @@ Time constraints limited how much of this could be done in the event setting. Ho
 
 Further reading: [the notes for the workshop](https://equalitysessions.wordpress.com/2019/09/01/national-struggles-into-local-action/?fbclid=IwAR0M3esVCcq04aXhFj5hWXCvVFVGWlRMPkLUYLJYIQIkHicC882AnOCDlTc)
 
-##Next steps
+## Next steps
 
 At the end of the event, there was some discussion over “what next”?
 
@@ -57,4 +54,3 @@ In particular, there was a keenness from those present to see more events in the
 With a wider group of activists now involved in the Network, we will also be looking at putting out more material based on what practical advice and help we can offer to fellow workers across PCS.
 
 The Rank & File Network is an organising forum open to all lay PCS members. If you would be interested in knowing more, then please [get in touch](mailto:hello@pcsrankandfile.com) and speak to us.
-
