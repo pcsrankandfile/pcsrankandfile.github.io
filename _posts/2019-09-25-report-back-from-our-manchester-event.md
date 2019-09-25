@@ -4,6 +4,14 @@ author: Rank & File Network
 date: '2019-09-25'
 published: true
 title: Report back from our Manchester event
+excerpt: >-
+  The aim of the event was, in essence, to begin a long-overdue conversation
+  about how we organise as a union. We believe that the event met that aim, and
+  we will be looking to hold further events around the country in order to keep
+  that conversation going. The mix of open debate and educational workshop
+  appeared to make the event more interesting and engaging than such an event
+  might otherwise be and, with some tweaks based on feedback, that is a format
+  we intend to continue with.
 ---
 On Saturday 14 September, the PCS Rank & File Network held an organising event in Manchester. Though the crowd in attendance was relatively small it was also diverse, with activists from HMRC, DWP and other Groups who had travelled from across the country to attend. The majority of those in attendance were not previously part of the Rank & File Network.
 
