@@ -10,7 +10,7 @@ excerpt: >-
   however, and we all have a role to play in linking up different groups of
   workers in order to spread the threat of a good example.
 ---
-##By Phil Dickens
+## By Phil Dickens
 
 ![]({{site.baseurl}}/https://justiceforhmrccleaners.files.wordpress.com/2019/03/img-20190315-wa0026-1.jpg?w=1400)
 
