@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Rank & File Network
+author: PCS Rank & File Network
 date: '2019-08-06'
 published: true
 title: 'Event: Building a Fighting Rank & File Movement'
