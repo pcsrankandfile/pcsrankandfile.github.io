@@ -13,6 +13,8 @@ excerpt: >-
   percent in real terms between 2010 and 2020.
 permalink: news/2019/11/16/civil-service-pay-can-we-win
 ---
+##By Rebecca Anderson
+
 ![pcs-trafalgar.jpeg]({{site.baseurl}}/assets/images/pcs-trafalgar.jpeg)
 
 Civil service pay awards have fallen short of inflation year on year. Our real income is falling – our wages simply don’t go as far as they used to. After two years of pay freezes, a 1 percent pay cap was imposed in 2012 and the Cabinet Office has strictly controlled pay ever since. If the government continues with its current pay policy, civil service pay will have fallen 20 percent in real terms between 2010 and 2020. 
