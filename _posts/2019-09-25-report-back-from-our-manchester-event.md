@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Rank & File Network
+author: PCS Rank & File Network
 date: '2019-09-25'
 published: true
 title: Report back from our Manchester event
