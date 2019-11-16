@@ -8,7 +8,7 @@ excerpt: >-
   and seeing this union become well organised from the grassroots up is exactly
   what the PCS HMRC Rank & File Network is aiming for.
 published: true
-author: Rank & File Network
+author: Phil Dickens
 permalink: >-
   https://pcsrankandfile.com/news/2019/02/18/Winning-on-pay-a-view-from-the-grassroots.html
 ---
