@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Rank & File Network
+author: Phil Dickens
 date: '2019-07-04'
 published: true
 title: Build the struggle against outsourcing!
