@@ -13,7 +13,7 @@ excerpt: >-
   percent in real terms between 2010 and 2020.
 permalink: news/2019/11/16/civil-service-pay-can-we-win
 ---
-##By Rebecca Anderson
+## By Rebecca Anderson
 
 ![pcs-trafalgar.jpeg]({{site.baseurl}}/assets/images/pcs-trafalgar.jpeg)
 
