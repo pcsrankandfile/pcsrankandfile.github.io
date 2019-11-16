@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Rank & File Network
+author: Rebecca Anderson
 date: '2019-11-16'
 published: true
 title: 'Civil Service Pay: Can We Win?'
