@@ -10,6 +10,8 @@ excerpt: >-
   however, and we all have a role to play in linking up different groups of
   workers in order to spread the threat of a good example.
 ---
+##By Phil Dickens
+
 ![]({{site.baseurl}}/https://justiceforhmrccleaners.files.wordpress.com/2019/03/img-20190315-wa0026-1.jpg?w=1400)
 
 PCS members working for ISS as cleaners in HMRC’s Merseyside offices have returned [a 100% vote for strike action](https://justiceforhmrccleaners.wordpress.com/2019/07/01/hmrc-cleaners-vote-returns-100-support-for-industrial-action/). They are due to strike initially on 15 and 16 July for a living wage, improved terms and conditions and guarantees around job security.
