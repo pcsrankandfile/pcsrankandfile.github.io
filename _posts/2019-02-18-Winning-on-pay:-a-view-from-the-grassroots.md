@@ -12,7 +12,7 @@ author: Phil Dickens
 permalink: >-
   https://pcsrankandfile.com/news/2019/02/18/Winning-on-pay-a-view-from-the-grassroots.html
 ---
-##By Phil Dickens
+## By Phil Dickens
 
 ![PCS_Article.jpg]({{site.baseurl}}/assets/images/PCS_Article.jpg)
 
