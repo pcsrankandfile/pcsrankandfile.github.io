@@ -4,9 +4,14 @@ author: Rank & File Network
 date: '2019-11-16'
 published: true
 title: 'Civil Service Pay: Can We Win?'
-regions: ''
-permalink: ''
-excerpt: ''
+excerpt: >-
+  Civil service pay awards have fallen short of inflation year on year. Our real
+  income is falling – our wages simply don’t go as far as they used to. After
+  two years of pay freezes, a 1 percent pay cap was imposed in 2012 and the
+  Cabinet Office has strictly controlled pay ever since. If the government
+  continues with its current pay policy, civil service pay will have fallen 20
+  percent in real terms between 2010 and 2020.
+permalink: news/2019/11/16/civil-service-pay-can-we-win
 ---
 ## By Rebecca Anderson
 
@@ -78,4 +83,4 @@ Unleashing those parts of the union that are ready and willing to take effective
 
 If we are to rebuild the union let’s do it on a rank and file basis where the members decide and the union provides. Let’s transform the union by eliminating bureaucratic obstacles and privileges. The NDC should exist to support and generalise disputes, not grant permission to them. All our officials should be elected by the members and take the wage of an average member, so they live the same life as those they represent, and our pay rise is their pay rise. Any official should be recallable if they fail to carry out the wishes of the members who elected them. 
 
-We should aim for the industrial strength of the CWU but wielded by accountable representatives rather than a bureaucracy. This pay campaign is our opportunity to build the union we need and win the pay rise we deserve. 
+We should aim for the industrial strength of the CWU but wielded by accountable representatives rather than a bureaucracy. This pay campaign is our opportunity to build the union we need and win the pay rise we deserve.
