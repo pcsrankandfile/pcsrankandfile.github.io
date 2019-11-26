@@ -115,6 +115,8 @@ prose:
   - /_layouts
   - /_includes
   - index.md
+  - blog.md
+  - /_data
   metadata:
     _posts:
       - name: "layout"
