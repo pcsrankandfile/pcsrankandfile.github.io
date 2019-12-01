@@ -96,7 +96,7 @@ compress_html:
   endings: all
   profile: false
   startings: [head, body]
-remote_theme: pcsrankandfile/oldtheme
+remote_theme: pcsrankandfile/jekyll-theme
 
 ####
 # https://prose.io/
