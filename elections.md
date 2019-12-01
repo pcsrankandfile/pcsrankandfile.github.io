@@ -14,7 +14,7 @@ Phil Dickens
 Georgina Griffith
 
 ### HMRC Group LGBT+ Advisory Committee
-Dean Davidson & Ben Kelly
+Ben Kelly
 
 ### HMRC Group Women's Advisory Committee
 Kiri Abbott & Chantelle Stone
