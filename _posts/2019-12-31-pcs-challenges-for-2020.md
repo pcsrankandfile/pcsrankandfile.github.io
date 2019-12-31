@@ -59,7 +59,7 @@ Needless to say, in any assessment of our union, we are a long way from such a m
 
 This doesn’t mean that, until we achieve such a state, we do nothing – of course, we have to organise in the present and with the tools we have to fight by all means necessary. What it does mean is that if we have such an end goal in mind and recognise that _there are no shortcuts_ to getting there, we minimise the risk of losing focus or going off track.
 
-In terms of the most basic things, that we should all be doing in our workplaces and branches – regardless of our role – see our short introduction to ‘the fundamentals’ here, mostly adapted from materials put out by the Industrial Workers of the World (IWW). There is training within PCS, currently confined to bite-size courses, that covers some of this – but I would also recommend looking up the training offered by the IWW themselves and the Solidarity Federation, neither of which hold back on the direct action aspect which still meets with incredible nervousness within the PCS mainstream.
+In terms of the most basic things, that we should all be doing in our workplaces and branches – regardless of our role – see [our short introduction to ‘the fundamentals’ here](https://pcsrankandfile.com/organising), mostly adapted from materials put out by the Industrial Workers of the World (IWW). There is training within PCS, currently confined to bite-size courses, that covers some of this – but I would also recommend looking up the training offered by the IWW themselves and the Solidarity Federation, neither of which hold back on the direct action aspect which still meets with incredible nervousness within the PCS mainstream.
 
 But just as important as what we do in our own individual workplaces is how we link up with other workplaces, across branches and employer groups, in ways horizontal (i.e. that are neither dictated nor mediated by the hierarchical structure of PCS itself).
 
@@ -95,5 +95,4 @@ By starting to link workers up across workplaces and across branches, we can mak
 
 It’s not going to be easy. It takes patience, hard work and persistence. But there’s no great mystery to it, except in the illusions offered by the gatekeepers to minimise challenges to their positions.
 
-Whether it’s getting five workers to publicly say ‘no’ to a bullying boss or a thousand to attend a mass meeting and a picket line – it all starts with a conversation. 
-
+Whether it’s getting five workers to publicly say ‘no’ to a bullying boss or a thousand to attend a mass meeting and a picket line – it all starts with a conversation.
