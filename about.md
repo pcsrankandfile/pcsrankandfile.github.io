@@ -32,8 +32,8 @@ We believe that the union needs to be making more radical demands of the bosses 
 
 The PCS Rank & File Network is an organising forum rather than an electoral faction. We welcome the support and involvement of anybody who genuinely wishes to help build a fighting rank and file movement in our union, including those who may otherwise be active in the union’s various factions.
 
-However, we do recognise the benefit of having those who support our aims in various elected posts in the union. At election times, we will therefore promote the candidacy of our members contesting such elections.
+However, we do recognise the benefit of having those who support our aims in various elected posts in the union. At election times, we will therefore [promote the candidacy of our members contesting such elections](https://pcsrankandfile.com/elections).
 
 # Building a movement
 
-Moving from the kind of union that we currently have to the one we wish to see will not happen overnight. We need to expand our network across as many branches as possible. This will allow us to support each other in our organising, improving PCS’s strength on the ground and boosting the confidence of members whilst ensuring that no branch is left isolated to fend for itself. If you want to get involved, [contact us](mailto:hello@pcsrankandfile.com). We welcome the involvement of all PCS members who support what we are trying to achieve.
+Moving from the kind of union that we currently have to the one we wish to see will not happen overnight. We need to expand our network across as many branches as possible. This will allow us to support each other in [our organising](https://pcsrankandfile.com/organising), improving PCS’s strength on the ground and boosting the confidence of members whilst ensuring that no branch is left isolated to fend for itself. If you want to get involved, [contact us](mailto:hello@pcsrankandfile.com). We welcome the involvement of all PCS members who support what we are trying to achieve.
