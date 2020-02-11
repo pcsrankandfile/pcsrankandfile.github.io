@@ -4,6 +4,10 @@ author: Rank & File Network
 date: '2020-02-11'
 published: true
 title: Membership control of union struggles
+excerpt: >-
+  The Rank & File Network stands for a union which takes a direct lead from
+  members in all negotiations. This is part of a broader principle that workers
+  should be in charge of their own struggles. What does that mean, exactly?
 ---
 ## By Phil Dickens
 
