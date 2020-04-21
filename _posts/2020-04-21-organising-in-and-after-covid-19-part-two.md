@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Rank & File Network
-date: '2020-21-04'
+date: '2020-04-21'
 published: true
 title: 'Organising in and after COVID-19: Part Two'
 excerpt: >-
